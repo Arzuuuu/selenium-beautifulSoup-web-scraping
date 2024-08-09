@@ -13,5 +13,7 @@ The site used for scraping is [Books to Scrape](https://books.toscrape.com/index
 
 # Requirements
 Selenium
+
 BeautifulSoup4
+
 pandas
